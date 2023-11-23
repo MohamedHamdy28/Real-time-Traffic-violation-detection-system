@@ -1,0 +1,2 @@
+python main.py ./v.mp4 --save_path ./output/yolov8/001 --detect_model yolov8 --config_detection ./configs/yolov8.yaml
+python main.py "D:\Work\upwork\Jobs\Car plate recognition\src\DashCamPipeline\data\jeddah3.mp4" --speed_violation 60
