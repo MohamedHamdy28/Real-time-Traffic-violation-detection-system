@@ -1,4 +1,5 @@
 # Real-time Traffic Violation Detection System
+![Alt Text](demo.gif)
 
 ## Introduction
 The Real-time Traffic Violation Detection System is an innovative end-to-end solution designed to detect traffic violations in video footage. It excels in accurately detecting vehicle speed and distance, recognizing number plates, and identifying violations of speed or distance limits. The system generates comprehensive reports that detail violations, including plate numbers, types of violations, penalties, specific values (such as speed or distance), and the exact frames where the violation occurred.
