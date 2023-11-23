@@ -46,5 +46,5 @@ The system is optimized for GPU usage. For optimal performance, ensure that PyTo
 
 ---
 
-If you are interested in purchasing this product or would like more information, please feel free to contact me.
+If you are interested in purchasing this product or would like more information, please feel free to contact me at hamody28522@gmail.com .
 
