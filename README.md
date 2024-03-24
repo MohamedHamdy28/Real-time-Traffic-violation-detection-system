@@ -25,8 +25,9 @@ The Real-time Traffic Violation Detection System is an innovative end-to-end sol
 
 ## Installation
 1. Clone this repository.
-2. Install Anaconda by following the guide at [Anaconda Installation](https://docs.conda.io/projects/conda/en/stable/user-guide/install/download.html).
-3. In your terminal, navigate to the code directory and execute the following command to set up the environment: ```conda env create -f environment.yml```
+2. Download the models folder from [here](https://drive.google.com/drive/folders/1qr7XjXTiWHyrw1bybSrcqc0eNAAeK2M5?usp=sharing) and include it in the directory
+3. Install Anaconda by following the guide at [Anaconda Installation](https://docs.conda.io/projects/conda/en/stable/user-guide/install/download.html).
+4. In your terminal, navigate to the code directory and execute the following command to set up the environment: ```conda env create -f environment.yml```
 
 
 ## Usage
