@@ -1,7 +1,6 @@
 car_tracking
 data/*.webm
 data/*.mp4
-data
 models
 output
 yolov8n.pt
